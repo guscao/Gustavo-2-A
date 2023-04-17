@@ -1,3 +1,28 @@
 body{
     background-color: blueviolet;
-}
+
+    .cabecalho{
+        background-color: #black;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        }
+
+        .cabecalho__titulo{
+        
+        display: inline;
+        }
+
+        .cabecalho__imagem {
+        width: 50px;
+        height: 50px;
+        }
+
+        .cabecalho__menu{
+        display: inline;
+        }
+
+        .cabecalho__menu-item{
+        display: inline;
+        margin-right: 150px;
+        font-size: 25px;
