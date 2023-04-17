@@ -1,27 +1,28 @@
 body{
     background-color: blueviolet;
+    }
 
-        .cabecalho{
-        background-color: #black;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        }
+    .cabecalho{
+    background-color: #black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
 
-        .cabecalho__titulo{
-        display: inline;
-        }
+    .cabecalho__titulo{
+    display: inline;
+    }
 
-        .cabecalho__imagem {
-        width: 20px;
-        height: 20px;
-        }
+    .cabecalho__imagem {
+    width: 20px;
+    height: 20px;
+    }
 
-        .cabecalho__menu{
-        display: inline;
-        }
+    .cabecalho__menu{
+    display: inline;
+    }
 
-        .cabecalho__menu-item{
-        display: inline;
-        margin-right: 100px;
-        font-size: 25px;
+    .cabecalho__menu-item{
+    display: inline;
+    margin-right: 100px;
+    font-size: 25px;
