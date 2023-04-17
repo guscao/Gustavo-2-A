@@ -1,7 +1,7 @@
 body{
     background-color: blueviolet;
 
-    .cabecalho{
+        .cabecalho{
         background-color: #black;
         display: flex;
         justify-content: space-around;
@@ -9,7 +9,6 @@ body{
         }
 
         .cabecalho__titulo{
-        
         display: inline;
         }
 
